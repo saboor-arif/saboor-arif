@@ -22,7 +22,7 @@ jobs:
           github_user_name: saboor-arif
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00A82D
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=8B5CF6
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
