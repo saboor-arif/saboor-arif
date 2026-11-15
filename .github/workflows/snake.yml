@@ -22,8 +22,9 @@ jobs:
           github_user_name: saboor-arif
         
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=8B5CF6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=8B5CF6
+            dist/github-contribution-grid-snake.svg?color_snake=%238B5CF6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%238B5CF6
+
 
 
       - name: Push to output branch
