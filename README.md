@@ -34,13 +34,18 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 
 ### Currently, I'm balancing three things:
 
-- 🧠 **Solving DSA problems** on LeetCode — **100+ problems solved**
-- 💻 **Building full-stack web applications** with the MERN stack
+- 🧠 **Analyzing Algorithms and DSA problems** with its Time Complexity and running time 
+- 💻 **Exploring and working** with Linux (Ubuntu) 
 - 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
 
+<!-- Animated GIFs -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnIyaGhiNnZ5YmtjZ3d5cmVxMnN5MnhtOWdlN3hwZHZ4NjA5YnM2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" alt="Coding animation">
 
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnIyaGhiNnZ5YmtjZ3d5cmVxMnN5MnhtOWdlN3hwZHZ4NjA5YnM2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Programming animation">
+</p>
 ---
+
 
 ## ⚡ Tech Stack
 
@@ -99,12 +104,15 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=saboor-arif&background=000000&ring=00A82D&fire=00A82D&currStreakLabel=FFFFFF&sideLabels=00A82D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E&stroke=00A82D&hide_border=true" alt="GitHub contribution streak">
 </p>
 
+
 ---
 
 > 🧠 **My goal isn't just to increase the problem count — it's to become better at thinking.**
 
 ---
+# 🐍 My Contributions
 
+<p align="center">   <picture>     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saboor-arif/saboor-arif/output/github-contribution-grid-snake-dark.svg">     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saboor-arif/saboor-arif/output/github-contribution-grid-snake.svg">     <img alt="Contribution snake" src="https://raw.githubusercontent.com/saboor-arif/saboor-arif/output/github-contribution-grid-snake-dark.svg" width="100%">   </picture> </p>
 
 <!-- ==================== WHAT I'VE LEARNED ==================== -->
 
