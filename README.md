@@ -50,7 +50,7 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
     <td width="45%" align="center" valign="middle">
       <img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnIyaGhiNnZ5YmtjZ3d5cmVxMnN5MnhtOWdlN3hwZHZ4NjA5YnM2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
-        width="300"
+        width="350"
         alt="Coding animation"
       />
     </td>
