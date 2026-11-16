@@ -1,6 +1,6 @@
 <h2 align="center">
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A82D&height=150&section=header&text=Muhammad%20Saboor&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergradate%20%7C%20Tech%20Enthusiast%20%7C%20ALways%20Learning%20and%20Building&descColor=ffffff&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A82D&height=150&section=header&text=Muhammad%20Saboor&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergradate%20%7C%20Tech%20Enthusiast%20%7C%20Always%20Learning%20and%20Building&descColor=ffffff&descAlignY=75" width="100%" />
   
  <!-- Animated Typing -->
 <p align="center">
