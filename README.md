@@ -5,7 +5,7 @@
  <!-- Animated Typing -->
 <p align="center">
   <a href="https://github.com/saboor-arif">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2600&pause=900&color=50C878&center=true&vCenter=true&width=700&lines=CS+Undergraduate+at+UMT;Learn+%7C+Code+%7C+Debug+%7C+Repeat;01100011+01101111+01100100+01100101" alt="Typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2600&pause=900&color=50C878&center=true&vCenter=true&width=700&lines=Learn+%7C+Code+%7C+Debug+%7C+Repeat;" alt="Typing banner">
   </a>
 </p>
 
@@ -16,6 +16,9 @@
 
 <!-- Social Links -->
 <p align="center">
+  <a href="https://muhammad-saboor-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" alt="Portfolio">
+  </a>
   <a href="https://github.com/saboor-arif">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub">
   </a>
@@ -96,16 +99,23 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 </div>
 
 
-# 🧩 Computer Science Courses
-- `Machine Learning`
-- `Cloud Computing`
-- `Operating Systems`
-- `Computer Organization and Architecture`
-- `Assembly Language`
-- `OOP`
-- `Data Structures & Algorithms`
-- `DBMS`
-- `Problem Solving`
+<h2 align="center">🧩 Computer Science Courses</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-181717?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-181717?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Operating_Systems-181717?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Computer_Networks-181717?style=for-the-badge&logo=wireshark&logoColor=white" alt="Computer Networks" />
+  <br />
+  <img src="https://img.shields.io/badge/Computer_Architecture-181717?style=for-the-badge&logo=intel&logoColor=white" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Theory_of_Automata-181717?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Theory of Automata" />
+  <img src="https://img.shields.io/badge/Assembly_Language-181717?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly Language" />
+  <img src="https://img.shields.io/badge/OOP-181717?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" />
+  <br />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-181717?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS-181717?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Problem_Solving-181717?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving" />
+</p>
 
 
 
@@ -141,19 +151,23 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 
 <!-- ==================== WHAT I'VE LEARNED ==================== -->
 
-# 📚 What I've Learned
+<h2 align="center">📚 What I've Learned</h2>
 
-- ✅ Web Development
-- ✅ Data Structures & Algorithms
-- ✅ Object-Oriented Programming
-- ✅ Git & GitHub
-- ✅ Database Management
-- ✅ REST APIs
-- ✅ Authentication & Authorization
-- ✅ Python
-- ✅ C++
-- ✅ Assembly Language
-- ✅ Dockers
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-008080?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA" />
+  <br />
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Database_Management-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <br />
+  <img src="https://img.shields.io/badge/Authentication_&_Authorization-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/Assembly_Language-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly Language" />
+</p>
 
 ---
 
@@ -161,14 +175,16 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 
 # 🌱 Currently Learning
 
-```yaml
-Currently:
-  - Analyzing Algorithms
-  - Solving Problems
-  - Learning Python
-  - Exploring Machine Learning
-  - Strengthening DSA & CS Fundamentals
-```
+<pre><code class="language-yaml">status: "In Progress 🚀"
+focus_areas:
+  - 🧠 Analyzing Algorithms & Problem Solving
+  - 🐍 Mastering Python
+  - 🤖 Exploring Machine Learning
+  - 🏗️ Strengthening DSA & CS Fundamentals
+</code></pre>
+
+---
+
 
 ---
 
